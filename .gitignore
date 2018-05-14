@@ -1,0 +1,10 @@
+# Files to be ignored
+
+.DS_Store
+.classpath
+.project
+.settings/
+src/SandBoxOO.java
+bin/
+
+
